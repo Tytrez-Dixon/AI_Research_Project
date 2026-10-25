@@ -1,3 +1,2 @@
 # Summary
--------------------
 A perceptron performs binary classification using a linear decision boundary. It is essentially a neural network with a single neuron. This project creates a program that takes a dataset and draws a linear decision boundary that correctly distinguishes target classes in the dataset. Using OOP (object-oriented programming) in Python, a Perceptron class (with attributes and functions that represent the characteristics and behavior of the perceptron algorithm) is created. Based on the Heart Disease dataset from the UCI Machine Learning Repository, the program attempts to create a decision boundary which classifies those with heart disease and those without heart disease.
